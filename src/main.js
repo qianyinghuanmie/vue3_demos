@@ -5,7 +5,7 @@ import 'element-plus/theme-chalk/index.css'
 import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
-import './mock.js' // 引入模拟数据  
+import './mock/list.js' // 引入模拟数据  
 
 
 // 创建 Vue 应用  
